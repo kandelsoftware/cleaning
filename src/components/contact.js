@@ -8,7 +8,7 @@ export default function Contact() {
           <h2>We're happy to hear from you</h2>
         </div>
         <div class="row">
-          <form method="post" action="#" class="contact-form">
+          <form method="POST" data-netlify="true" class="contact-form">
             <div class="row">
               <div class="col span-1-of-3">
                 <label for="name">Name</label>
