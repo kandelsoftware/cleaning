@@ -33,20 +33,16 @@ export default function Feature() {
           </div>
           <div class="col span-1-of-4 box">
             <i class="ion-ios-nutrition-outline icon-big" />
-            <h3>100% organic</h3>
+            <h3>dynamic services</h3>
             <p>
-              All our vegetables are fresh, organic and local. Animals are
-              raised without added hormones or antibiotics. Good for your
-              health, the environment, and it also tastes better!
+             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam quos in sed, sint labore repellendus tempora minus officia a aspernatur expedita ratione, nulla laborum natus? Non iusto nemo sunt atque.
             </p>
           </div>
           <div class="col span-1-of-4 box">
             <i class="ion-ios-cart-outline icon-big" />
-            <h3>Order anything</h3>
+            <h3>Tell us about your requirement</h3>
             <p>
-              We don't limit your creativity, which means you can order whatever
-              you feel like. You can also choose from our menu containing over
-              100 delicious meals. It's up to you!
+             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est sint enim maxime quam quibusdam aut culpa quisquam a ut autem odit sapiente exercitationem aperiam, nulla tempore reprehenderit dolores ipsam molestiae!
             </p>
           </div>
         </div>
@@ -58,7 +54,7 @@ export default function Feature() {
             <figure class="meal-photo">
               <img
                 src="resources/img/1.jpg"
-                alt="Korean bibimbap with egg and vegetables"
+                alt="cleaning"
               />
             </figure>
           </li>
@@ -66,7 +62,7 @@ export default function Feature() {
             <figure class="meal-photo">
               <img
                 src="resources/img/2.jpg"
-                alt="Simple italian pizza with cherry tomatoes"
+                alt="cleaning"
               />
             </figure>
           </li>
@@ -74,47 +70,36 @@ export default function Feature() {
             <figure class="meal-photo">
               <img
                 src="resources/img/3.jpg"
-                alt="Chicken breast steak with vegetables"
+                alt="cleaning"
+                "
               />
             </figure>
           </li>
           <li>
             <figure class="meal-photo">
-              <img src="resources/img/4.jpg" alt="Autumn pumpkin soup" />
+              <img src="resources/img/4.jpg" alt="cleaning" />
             </figure>
           </li>
         </ul>
         <ul class="meals-showcase clearfix">
           <li>
             <figure class="meal-photo">
-              <img
-                src="resources/img/5.jpg"
-                alt="Paleo beef steak with vegetables"
-              />
+              <img src="resources/img/5.jpg" alt="cleaning" />
             </figure>
           </li>
           <li>
             <figure class="meal-photo">
-              <img
-                src="resources/img/6.jpg"
-                alt="Healthy baguette with egg and vegetables"
-              />
+              <img src="resources/img/6.jpg" alt="cleaning" />
             </figure>
           </li>
           <li>
             <figure class="meal-photo">
-              <img
-                src="resources/img/7.jpg"
-                alt="Burger with cheddar and bacon"
-              />
+              <img src="resources/img/7.jpg" alt="cleaning " />
             </figure>
           </li>
           <li>
             <figure class="meal-photo">
-              <img
-                src="resources/img/8.jpg"
-                alt="Granola with cherries and strawberries"
-              />
+              <img src="resources/img/8.jpg" alt="cleaning" />
             </figure>
           </li>
         </ul>
