@@ -10,7 +10,7 @@ export default function Contact() {
         <div class="row">
           <form
             name="contact"
-            method="post"
+            action="sucess.html"
             data-netlify-recaptcha="true"
             data-netlify="true"
           >
