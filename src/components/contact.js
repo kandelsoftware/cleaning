@@ -8,15 +8,24 @@ export default function Contact() {
           <h2>We're happy to hear from you</h2>
         </div>
         <div class="row">
-          <form
-            name="contact"
-            action="sucess.html"
-            data-netlify-recaptcha="true"
-            data-netlify="true"
-          >
+          <form name="contact" method="POST" data-netlify="true">
             <p>
               <label>
-                Email: <input type="text" name="name" />
+                Your Name: <input type="text" name="name" />
+              </label>
+            </p>
+            <p>
+              <label>
+                Your Email: <input type="email" name="email" />
+              </label>
+            </p>
+            <p>
+              <label>
+                Your Role:{" "}
+                <select name="role[]" multiple>
+                  <option value="leader">Leader</option>
+                  <option value="follower">Follower</option>
+                </select>
               </label>
             </p>
             <p>
@@ -24,7 +33,6 @@ export default function Contact() {
                 Message: <textarea name="message" />
               </label>
             </p>
-            <div data-netlify-recaptcha="true" />
             <p>
               <button type="submit">Send</button>
             </p>
