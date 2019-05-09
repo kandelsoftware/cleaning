@@ -35,14 +35,20 @@ export default function Feature() {
             <i class="ion-ios-nutrition-outline icon-big" />
             <h3>dynamic services</h3>
             <p>
-             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam quos in sed, sint labore repellendus tempora minus officia a aspernatur expedita ratione, nulla laborum natus? Non iusto nemo sunt atque.
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam
+              quos in sed, sint labore repellendus tempora minus officia a
+              aspernatur expedita ratione, nulla laborum natus? Non iusto nemo
+              sunt atque.
             </p>
           </div>
           <div class="col span-1-of-4 box">
             <i class="ion-ios-cart-outline icon-big" />
             <h3>Tell us about your requirement</h3>
             <p>
-             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est sint enim maxime quam quibusdam aut culpa quisquam a ut autem odit sapiente exercitationem aperiam, nulla tempore reprehenderit dolores ipsam molestiae!
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est sint
+              enim maxime quam quibusdam aut culpa quisquam a ut autem odit
+              sapiente exercitationem aperiam, nulla tempore reprehenderit
+              dolores ipsam molestiae!
             </p>
           </div>
         </div>
@@ -52,27 +58,17 @@ export default function Feature() {
         <ul class="meals-showcase clearfix">
           <li>
             <figure class="meal-photo">
-              <img
-                src="resources/img/1.jpg"
-                alt="cleaning"
-              />
+              <img src="resources/img/1.jpg" alt="cleaning" />
             </figure>
           </li>
           <li>
             <figure class="meal-photo">
-              <img
-                src="resources/img/2.jpg"
-                alt="cleaning"
-              />
+              <img src="resources/img/2.jpg" alt="cleaning" />
             </figure>
           </li>
           <li>
             <figure class="meal-photo">
-              <img
-                src="resources/img/3.jpg"
-                alt="cleaning"
-                "
-              />
+              <img src="resources/img/3.jpg" alt="cleaning" />
             </figure>
           </li>
           <li>
