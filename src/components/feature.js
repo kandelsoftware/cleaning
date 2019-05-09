@@ -36,9 +36,7 @@ export default function Feature() {
             <h3>dynamic services</h3>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam
-              quos in sed, sint labore repellendus tempora minus officia a
-              aspernatur expedita ratione, nulla laborum natus? Non iusto nemo
-              sunt atque.
+              quos in sed, sint labore repellendus tempora.
             </p>
           </div>
           <div class="col span-1-of-4 box">
@@ -46,9 +44,7 @@ export default function Feature() {
             <h3>Tell us about your requirement</h3>
             <p>
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est sint
-              enim maxime quam quibusdam aut culpa quisquam a ut autem odit
-              sapiente exercitationem aperiam, nulla tempore reprehenderit
-              dolores ipsam molestiae!
+              enim maxime quam .
             </p>
           </div>
         </div>
