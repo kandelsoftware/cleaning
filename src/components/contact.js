@@ -8,7 +8,7 @@ export default function Contact() {
           <h2>We're happy to hear from you</h2>
         </div>
         <div class="row">
-          <form method="post" name="sucess" netlify>
+          <form name="contact" netlify>
             <div class="row">
               <div class="col span-1-of-3">
                 <label for="name">Name</label>
@@ -74,7 +74,7 @@ export default function Contact() {
                 <label>&nbsp;</label>
               </div>
               <div class="col span-2-of-3">
-                <input type="submit" value="Send it!" />
+                <button type="submit">Send it!</button>
               </div>
             </div>
           </form>
